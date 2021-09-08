@@ -1,0 +1,28 @@
+if w = do nothing
+s = accelerate down
+a = move left
+d = move right
+
+
+get state of keypress
+
+, = rotate counter clockwise
+. = rotate clockwise
+
+
+object for current item
+object for next item
+
+randomized array that gets pushed to 
+
+
+
+
+First I make a text file with the stuff that I need to figure out how to do
+Next, make a game board
+Then the pieces placeholders
+work on logic
+add levels
+style background
+style pieces
+finished

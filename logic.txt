@@ -1,4 +1,4 @@
-if w = do nothing
+if w = do nothing/slow
 s = accelerate down
 a = move left
 d = move right
